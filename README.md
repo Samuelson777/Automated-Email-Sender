@@ -44,3 +44,6 @@ To expand the functionality and improve the robustness of your Automated Email S
 ## Acknowledgments
 - Python Documentation
 - Gmail SMTP Settings
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Automated-Email-Sender/blob/main/LICENSE) file for details.
